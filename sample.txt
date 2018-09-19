@@ -1,2 +1,3 @@
 you can learn about git!
 Register the change of add in index
+Pull form reposity
