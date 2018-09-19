@@ -1,3 +1,4 @@
 you can learn about git!
 Register the change of add in index
 Record commit index's status
+Pull form reposity
